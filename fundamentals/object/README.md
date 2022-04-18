@@ -29,5 +29,9 @@ Layouts help you customize how your object looks. For example, you can align you
 We have designed layouts to be extendable. In the future, users will be able to make custom layouts too!
 
 {% hint style="info" %}
+The width of the layout of your canvas can be adjusted for each Object individually. Use "Layout" > "Set layout width" and adjust the slider.
+{% endhint %}
+
+{% hint style="info" %}
 Primary and Profile layouts support either an emoji or a photo icon. All layouts, except Note, support a cover image.
 {% endhint %}
