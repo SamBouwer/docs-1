@@ -22,6 +22,14 @@ Do a search across your knowledge graph, object types, and relations.
 
 ![](../.gitbook/assets/ezgif-3-124675fdcc1c.gif)
 
+## Sidebar
+
+The sidebar allows you to have a quick overview of some of the Object groups from the home page:
+
+* Favorites
+* History
+* Sets
+
 ## Navigation Panel
 
 Since all connections between objects have a certain direction(_from-object_ or _to-object)_, the navigation panel helps to see objects connected with the current one in terms of their direction. Read more about object connections in [#object-graph](navigation.md#object-graph "mention")
